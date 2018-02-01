@@ -1,0 +1,6 @@
+Starting job
+Making symbolic links to fastq files.
+Retrieving Pristionchus genome assembly and annotation files
+Performing alignment on the RNA-seq files
+
+Fatal error: STARalign config file /N/u/iwongso/Carbonate/T502_RNAseq/scripts/scripts/STARalign.conf does not exist. Please check.
