@@ -10,13 +10,9 @@ module load star
 
 fileDir=/N/dc2/scratch/rtraborn/T502_fastqs/PP_RNAseq
 ####### Before running the script, please enter path to desired output directory, below ####
-<<<<<<< HEAD
-WD=/N/u/iwongso/Carbonate/T502_RNAseq/scripts
-#WD=/N/u/<yourUserId>/Carbonate/T502_RNAseq/
+WD=/N/u/iwongso/Carbonate/T502_RNAseq
+
 outDir=/N/dc2/scratch/rtraborn/starAlign
-=======
-WD=/N/dc2/scratch/rtraborn/T502_RNAseq/
->>>>>>> 79ef0b81609d04c8cd238792d31f4275ecc369e5
 fqDir=fastqs
 genomedir=${WD}/fasta
 genomeFasta=pacificus_Hybrid2.fa
